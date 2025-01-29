@@ -19,7 +19,6 @@ Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
   <img alt="projeto DevLinks" src=".github/preview.jpg" width="100%">
 =======
   <img alt="calendario da copa" src=".github/preview.jpg" width="100%">
->>>>>>> 37e9f56d903d7181bc42f11ef0ad011e2064b43f
 </p>
 
 ## 🚀 Tecnologias
@@ -29,7 +28,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - HTML e CSS
 - JavaScript
 - Git e Github
-<<<<<<< HEAD
 - figma
 
 ## 💻 Projeto
