@@ -4,12 +4,7 @@
 <p align="center">
 Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB.
 =======
-<h1 align="center"> NLW #10 Copa </h1>
 
-<p align="center">
-Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB.
->>>>>>> 37e9f56d903d7181bc42f11ef0ad011e2064b43f
-</p>
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
