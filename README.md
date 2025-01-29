@@ -8,7 +8,7 @@ Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
 
 
 <p align="center">
-  <img alt="License" src=".github/preview.jpg">
+  <img alt="DevLinks" src=".github/preview.jpg">
 </p>
 
 <br>
