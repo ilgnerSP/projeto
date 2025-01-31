@@ -61,11 +61,12 @@ body * {
   height: 24px;
   background: var(--surface-color);
   border: 1px solid var(--stroke-color);
+  backdrop-filter: blur(4px);
   -webkit-backdrop-filter: blur(4px);
-  border-radius: 99999px;
+  border-radius: 9999px;
 }
 #switch button:hover {
-  outline:8px solid var(--highlight-color);
+  outline: 8px solid var(--highlight-color);
 }
 #switch button {
   width: 32px;
